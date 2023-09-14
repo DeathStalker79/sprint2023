@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/DeathStalker79/sprint2023#readme",
   "dependencies": {
-    "axios": "^1.5.0"
+    "axios": "^1.5.0",
+    "express": "^4.18.2"
   }
 }
